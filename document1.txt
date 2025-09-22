@@ -5,6 +5,9 @@ def partition(l, r, nums):
 
     # this second change text.
     # eyyyyyyyyyyyyyyyyyyyyyyy
+
+    # thise third change txt.
+    # eyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
     pivot, ptr = nums[r], l
     for i in range(l, r):
         if nums[i] <= pivot:
